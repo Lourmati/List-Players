@@ -1,2 +1,2 @@
 # List-Players
-Players management (coded with knot lists) in C++
+Sport players management (coded with knots lists) in C++
